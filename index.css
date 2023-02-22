@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://img.freepik.com/premium-vector/calculator-with-icons-background-vector-illustration_3482-3880.jpg?w=740");
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+span {
+    border-bottom: 2px solid black;
+    padding: 4px;
+    font-style: Bold;
+    font-weight: bold;
+    font-size: 25px;
+    font-variant: small-caps;
+
+}
+
+button {
+    margin: 10px 0;
+    background: darkslategrey ;
+    width: 100px;
+    margin: 10 auto;
+    margin-top: 10 auto;
+    color: lightgray;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 8px;
+}
